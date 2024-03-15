@@ -1,46 +1,36 @@
 {
   "version": 3,
   "targets": {
-    "net5.0-windows7.0": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0-windows7.0": []
+    "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\azoko.DPU\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/rajpatel/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\azoko.DPU\\OneDrive - DePaul University\\Desktop\\TicTacToe\\TicTacToe.csproj",
-      "projectName": "TicTacToe",
-      "projectPath": "C:\\Users\\azoko.DPU\\OneDrive - DePaul University\\Desktop\\TicTacToe\\TicTacToe.csproj",
-      "packagesPath": "C:\\Users\\azoko.DPU\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\azoko.DPU\\OneDrive - DePaul University\\Desktop\\TicTacToe\\obj\\",
+      "projectUniqueName": "/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/Proj1-Patel.csproj",
+      "projectName": "Proj1-Patel",
+      "projectPath": "/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/Proj1-Patel.csproj",
+      "packagesPath": "/Users/rajpatel/.nuget/packages/",
+      "outputPath": "/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\azoko.DPU\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/rajpatel/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net5.0-windows7.0"
+        "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0-windows7.0": {
-          "targetAlias": "net5.0-windows",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -51,8 +41,8 @@
       }
     },
     "frameworks": {
-      "net5.0-windows7.0": {
-        "targetAlias": "net5.0-windows",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
@@ -66,12 +56,9 @@
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
-          },
-          "Microsoft.WindowsDesktop.App.WPF": {
-            "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.407/RuntimeIdentifierGraph.json"
       }
     }
   }

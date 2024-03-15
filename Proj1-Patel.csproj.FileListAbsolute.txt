@@ -1,0 +1,15 @@
+/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/bin/Debug/net5.0/Proj1-Patel.deps.json
+/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/bin/Debug/net5.0/Proj1-Patel.runtimeconfig.json
+/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/bin/Debug/net5.0/Proj1-Patel.runtimeconfig.dev.json
+/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/bin/Debug/net5.0/Proj1-Patel.dll
+/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/bin/Debug/net5.0/ref/Proj1-Patel.dll
+/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/bin/Debug/net5.0/Proj1-Patel.pdb
+/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/obj/Debug/net5.0/Proj1-Patel.csproj.AssemblyReference.cache
+/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/obj/Debug/net5.0/Proj1-Patel.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/obj/Debug/net5.0/Proj1-Patel.AssemblyInfoInputs.cache
+/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/obj/Debug/net5.0/Proj1-Patel.AssemblyInfo.cs
+/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/obj/Debug/net5.0/Proj1-Patel.csproj.CoreCompileInputs.cache
+/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/obj/Debug/net5.0/Proj1-Patel.dll
+/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/obj/Debug/net5.0/ref/Proj1-Patel.dll
+/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/obj/Debug/net5.0/Proj1-Patel.pdb
+/Users/rajpatel/Documents/IT 330/Proj1-Patel/Proj1-Patel/obj/Debug/net5.0/Proj1-Patel.genruntimeconfig.cache
